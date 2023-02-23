@@ -25,10 +25,6 @@ I'm a Front-End developer who likes to work with Typescript, Next.js and Tailwin
 <br />
 
 <picture>
-<source 
-  srcset="(https://github-readme-stats.vercel.app/api/top-langs/?username=Jayzumen&layout=compact)"
-/>
-
 <img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=Jayzumen&layout=compact)" />
 </picture>
 
