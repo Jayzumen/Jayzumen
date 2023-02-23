@@ -1,12 +1,12 @@
-# Hi, I'm Jan-Niklas
+# Hi, I'm Jan-Niklas 👋
 
 <p align="center">
-  <a href="https://jn-reinhardt.vercel.app/">
+  <a href="https://jn-reinhardt.vercel.app/" target="_blank">
     <img width="100" src="https://raw.githubusercontent.com/Jayzumen/next-portfolio/main/public/j.png" alt="logo" />
   </a>
 </p>
 
-I'm a Front-End developer who likes to work with Typescript, Next.js and TailwindCss.
+### I'm a Front-End developer who likes to work with Typescript, Next.js and TailwindCss.
 
 <div align="center">
   <picture>
@@ -29,11 +29,11 @@ I'm a Front-End developer who likes to work with Typescript, Next.js and Tailwin
 <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayzumen&layout=compact" alt="My language stats" />
 </div>
 
-### visit my Blog: 📖 &nbsp;&nbsp;[jns-blog.hashnode.dev](https://jns-blog.hashnode.dev/)
+#### visit my Blog: 📖 &nbsp;&nbsp;[jns-blog.hashnode.dev](https://jns-blog.hashnode.dev/)
 
 <br />
 
-#### Things I love
+#### Things I love:
 
   * Technology and Software 🧑‍💻
   * Gaming 🎮
