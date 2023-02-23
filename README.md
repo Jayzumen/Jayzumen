@@ -9,7 +9,7 @@
 I'm a Front-End developer who likes to work with Typescript, Next.js and TailwindCss.
 
 <div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayzumen&layout=compact&hide_title=1&card_width=300" alt="Top languages used in my repos" />
+  [![Jayzumen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayzumen)]
   <br />
 </div>
 
