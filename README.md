@@ -24,9 +24,8 @@ I'm a Front-End developer who likes to work with Typescript, Next.js and Tailwin
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayzumen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<div align="center">
-  
+
+<div align="center">  
 <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayzumen&layout=compact" alt="My language stats" />
 </div>
 
