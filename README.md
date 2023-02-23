@@ -24,9 +24,9 @@ I'm a Front-End developer who likes to work with Typescript, Next.js and Tailwin
 
 <br />
 
-
-<img width={200} src="(https://github-readme-stats.vercel.app/api/top-langs/?username=Jayzumen&layout=compact)" alt="My language stats" />
-
+<div align="center">
+<img width="" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=Jayzumen&layout=compact&hide_title=1&card_width=300)" alt="My language stats" />
+</div>
 
 ### visit my Blog: 📖 &nbsp;&nbsp;[jns-blog.hashnode.dev](https://jns-blog.hashnode.dev/)
 
