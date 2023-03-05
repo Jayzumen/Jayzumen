@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jan-Niklas</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayzumen&label=Profile%20views&color=0e75b6&style=flat" alt="jayzumen" /> </p>
 
 - 🔭 I’m currently working on [CineScope](https://cinescope.vercel.app/)
 
