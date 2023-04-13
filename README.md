@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://jn-reinhardt.vercel.app/](https://jn-reinhardt.vercel.app/)
 
-- 📝 I regularly write articles on [https://jns-blog.hashnode.dev/](https://jns-blog.hashnode.dev/)
-
 - 📫 How to reach me **reinhardtjanniklas96@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
