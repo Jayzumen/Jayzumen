@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Next.js v13**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://jn-reinhardt.vercel.app/](https://jn-reinhardt.vercel.app/)
 
