@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jan-Niklas</h1>
-<h3 align="center">A passionate frontend developer from Germany</h3>
+<h3 align="center">A frontend developer from Germany</h3>
 
-
-
-- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://jn-reinhardt.vercel.app/](https://jn-reinhardt.vercel.app/)
 
