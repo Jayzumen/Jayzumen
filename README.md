@@ -2,7 +2,7 @@
 <h3 align="center">A frontend developer from Germany</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://jn-reinhardt.vercel.app/](https://jn-reinhardt.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://jn-reinhardt.vercel.app/](https://jn-reinhardt.netlify.app/)
 
 - 📫 How to reach me **reinhardtjanniklas96@gmail.com**
 
